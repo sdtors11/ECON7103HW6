@@ -1,0 +1,25 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3312\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx6192\clbrdrt\brdrs\cellx7632
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx4752\cellx6192\cellx7632
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx7632
+\ql VARIABLES\cell\qc ATE\cell\qc ATE\cell\qc ATE\cell\qc ATE\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx4752\cellx6192\cellx7632
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql car\cell\qc \cell\qc \cell\qc -2,794***\cell\qc -2,553***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (292.7)\cell\qc (509.7)\cell\row
+\ql mpg\cell\qc \cell\qc \cell\qc -110.5***\cell\qc -219.7***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (22.33)\cell\qc (40.71)\cell\row
+\ql r1vs0.rdl\cell\qc -3,342***\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (364.7)\cell\qc \cell\qc \cell\qc \cell\row
+\ql 0.rdl\cell\qc \cell\qc 20,868***\cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc (152.3)\cell\qc \cell\qc \cell\row
+\ql Constant\cell\qc \cell\qc \cell\qc 25,843***\cell\qc 25,920***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (727.4)\cell\qc (968.3)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx7632
+\ql Observations\cell\qc 1,000\cell\qc 1,000\cell\qc 1,000\cell\qc 1,000\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
